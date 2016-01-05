@@ -1,7 +1,7 @@
-# oeis
-Compact and simple Ruby implementations of a handful of random entries from the " The On-Line Encyclopedia of Integer Sequences®"
+# OEIS Sequences for Ruby
+Compact and simple Ruby implementations of a handful of random entries from the "[The On-Line Encyclopedia of Integer Sequences®](https://oeis.org/)"
 
-Really just a sportive exercise in Ruby coding.
+Really just a sportive exercise in Ruby coding. They may be helpful for others to learn about `include Enumerable` or a starting point for you to implement your own favorite sequence.
 
 ```ruby
 irb(main):001:0> require 'oeis'
